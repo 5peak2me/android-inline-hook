@@ -15,7 +15,7 @@
 > If you need an Android PLT hook library, try [ByteHook](https://github.com/bytedance/bhook).
 
 
-> ## Android OS Compatibility
+## Android OS Compatibility
 
 **Android `4.1` - `17 QPR1 Beta 4`**
 
